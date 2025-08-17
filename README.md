@@ -25,7 +25,8 @@
 - Docker/Docker Compose (локальный запуск)
 
 ---
-
+https://github.com/Andrey2077/Shortcut-project-One/tree/dev/Content-service - сервис по получению и обработки запросов на поиск данных в библиотеке
+https://github.com/Andrey2077/Shortcut-project-One/tree/dev/common-objects  - сервис общих объектов
 
 ## Лицензия
 
